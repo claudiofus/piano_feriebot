@@ -1,0 +1,16 @@
+{
+  "name": "piano_feriebot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "claudiofus",
+  "license": "ISC",
+  "dependencies": {
+    "firebase-admin": "^9.3.0",
+    "telegraf": "^3.38.0",
+    "telegraf-calendar-telegram": "^1.5.8"
+  }
+}
